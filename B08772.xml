@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Challoner Chute Esquire, upon his appeal from two decrees of the Court of Chancery, obtained against his father and himself, at the suit of the Right Honourable Dorothy Lady Dacre and others.  Humbly offered to the consideration of the Lords Spiritual and Temporal in Parliament assembled.</title>
+            <author>Chute, Challoner, 1658-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08772</idno>
+            <idno type="STC">Wing C4276A</idno>
+            <idno type="STC">ESTC R174048</idno>
+            <idno type="EEBO-CITATION">64551098</idno>
+            <idno type="OCLC">ocm 64551098</idno>
+            <idno type="VID">184471</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08772)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184471)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2864:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Challoner Chute Esquire, upon his appeal from two decrees of the Court of Chancery, obtained against his father and himself, at the suit of the Right Honourable Dorothy Lady Dacre and others.  Humbly offered to the consideration of the Lords Spiritual and Temporal in Parliament assembled.</title>
+                  <author>Chute, Challoner, 1658-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chute, Challoner, 1658-1685 --  Trials, litigation, etc.</term>
+               <term>Dacre, Dorothy, --  Lady, 1605?-1698 --  Trials, litigation, etc.</term>
+               <term>Decedents' estates --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb facs="tcp:184471:1"/>
+            <head>THE CASE OF Challoner Chute Eſquire, Upon his Appeal from two Decrees of the Court of <hi>Chancery,</hi> obtained againſt his Father and himſelf, at the Suit of the Right Honourable <hi>Dorothy</hi> Lady <hi>Dacre</hi> and others.</head>
+            <head type="sub">Humbly offered to the Conſideration of the <hi>Lords Spiritual</hi> and <hi>Temporal</hi> in Parliament Aſſembled.</head>
+            <p>
+               <hi>CHalloner Chute,</hi> the Appealants late Grandfather, upon his Marriage with the ſaid Lady <hi>Dacre,</hi> did by Articles in <hi>October</hi> 1650. Covenant with Sir <hi>Dudley North</hi> her Brother, and Mr. <hi>Richard Barret</hi> her Son, as her Truſtees, to purchaſe, and ſettle, on the ſaid Lady <hi>Dacre,</hi> within three Years then next, a Joynture of 500 <hi>l. per Annum</hi> Value: Or elſe, that in default of Set<g ref="char:EOLhyphen"/>tling ſuch Joynture, 5000 <hi>l.</hi> part of a Debt of 7800 <hi>l.</hi> owing by the Late Earl of <hi>Arundel,</hi> ſhould be received by the ſaid Lady <hi>Dacre</hi> or her Truſtees, for the Benefit of her, her Executors and Adminiſtrators.</p>
+            <p>After the Marriage, the Appealants ſaid Grandfather purchaſed a Houſe and Lands of 500 <hi>l. per Annum</hi> at <hi>Rohampton,</hi> with an in<g ref="char:EOLhyphen"/>tention to ſettle the ſame on the ſaid Lady, purſuant to the ſaid Agreement, and ſo he declared; but at her Importunity, he was pre<g ref="char:EOLhyphen"/>vailed upon to ſell the ſame to the Counteſs Dowager of <hi>Devonſhire,</hi> the ſaid Lady <hi>Dacre</hi> having a good Preſent from the ſaid Coun<g ref="char:EOLhyphen"/>teſs for her Conſent: And thereupon ſhe the Lady <hi>Dacre,</hi> choſe to have <hi>Sutton</hi>-Court, and Lands at <hi>Chiſwick</hi> in the County of <hi>Mid<g ref="char:EOLhyphen"/>dleſex</hi> (which were of 600 <hi>l. per Annum</hi> Value, to be Settled on her and her Truſtees for her Joynture, (part whereof was of an un<g ref="char:EOLhyphen"/>doubted Title, and other thereof was a Term for Years, held of the Dean of St. <hi>Pauls London,</hi> and the Inheritance thereof purcha<g ref="char:EOLhyphen"/>ſed under the Title of the then Uſurping State,) whereupon the 7800 <hi>l.</hi> was received and diſpoſed of by the Appellant's Grandfa<g ref="char:EOLhyphen"/>ther in his Life time, without any Contradiction of the ſaid Lady and her Truſtees, and the ſaid Purchaſe and Settlement of the ſaid <hi>Chiſwick</hi>-Joynture, was made at the Requeſt of the ſaid Lady, and accepted by her, and her ſaid Truſtees, both before and af<g ref="char:EOLhyphen"/>ter the Death of the Appellants ſaid Grandfather, (which happened in 1659) as a full Satisfaction and Performance of the ſaid Mar<g ref="char:EOLhyphen"/>riage-Articles: And the ſaid Lady entred and enjoyed her ſaid Joynture for about two years after her ſaid Husband's Death.</p>
+            <p>That the ſaid Lady, having a Legacy in Plate and Goods, of about 900 <hi>l.</hi> Value, given her by her ſaid Husband, and being evicted of <hi>Sutton</hi> Court by the Deans Reſtitution, ſhe preferred her Bill in <hi>Chancery</hi> in her own, and her Truſtees Names, againſt the Appellants Late Father, as Heir and Executor of her ſaid Husband, to have the ſaid 5000 <hi>l.</hi> as if no Settlement had been made in purſuance of the ſaid Marriage-Agreement, and likewiſe for the ſaid Legacy of Goods. And in 1664. obtained a Decree againſt the Appellants Father, for the Sum of 5000 <hi>l.</hi> and Intereſt, out of the Aſſetts Real and Perſonal of his Father, and alſo a Decree for her ſaid Legacy of Plate and Goods; although it appeared, that there wanted Aſſetts to pay Debts and Legacies: And by that Decree, the Reverſion of an Eſtate called the <hi>Vine</hi> in <hi>Hampſhire,</hi> expectant upon the Appealants Father and Mothers Lives, is ſubje<g ref="char:EOLhyphen"/>cted as Aſſetts in Law by Deſcent, when it ſhould fall, to pay the ſaid Ladies pretented Demand of 5000 <hi>l.</hi> and Intereſt.</p>
+            <p>Soon after the ſaid Decree, the Appealants Father and Mother Dying, and the Reverſion thereby falling into Poſſeſſion, the ſaid Lady obtained a further Decree by Conſent againſt the Appealant. during his Minority, for the Poſſeſſion of the ſaid Eſtate, cal<g ref="char:EOLhyphen"/>led the <hi>Vine,</hi> and for cutting down Wood and Timber, and allowing 40 <hi>l. per Annum</hi> a piece out of the Appealants Eſtate, to three of her younger Grand-Children, which by Law ſhe was obliged to maintain; whereby, and by cauſing her Servant Mr. <hi>Owen,</hi> to take Adminiſtration of the Appealants Fathers Eſtate; ſhe ſeized all the Appealants Eſtate both Real and Perſonal.</p>
+            <p>Which Proceedings and Decrees are Erroneous and Unjuſt.</p>
+            <p n="1">1. For that the Decree orders 5000 <hi>l.</hi> and Intereſt to be paid in reſpect of Marriage-Articles, that were fully performed, even in the very Letter of them, and to the good liking, and full Satisfaction of the Parties; and when there was no Breach of Covenant, or any Action maintainable upon the ſaid Articles.</p>
+            <p n="2">2. If there had been a Breach of Covenant, the Plaintiffs had no Equity, but might have purſued their Action at Law; and 'tis Errour for Equity to make a Decree, where there is proper Remedy at Law, eſpecially where Damages are to be Aſſeſſed by a Jury.</p>
+            <p n="3">3. For that no Intereſt or Damages ought to have been given, in regard the 5000 <hi>l.</hi> was in Nature of a Penalty, and only is ten Years Purchaſe for an old Life, Or if any Intereſt or Damages ought to be given. Yet,</p>
+            <p n="4">4. For that Intereſt or Damages are generally given: whereas they ſhould (if any) have been given only to the time of the Decree, as they are always given to the time of the Recovery at Law; and they ought not to be given generally, or to the time of Payment; and Equity ought not to have given Damages, or further Relief than the Law would have done.</p>
+            <p n="5">5. For that the Decree hath not only given Intereſt in a Caſe where none could be given by law, but hath given Intereſt on a great part of that Intereſt directly: If it ſtand, the Lady will have as good as Intereſt upon Intereſt throughout.</p>
+            <p n="6">6. For that the Decree allows the Legacy of Plate and Goods valued by the Decree, at 900 <hi>l.</hi> when it appears there were no Aſſetts to pay Debts.</p>
+            <p n="7">7. For that the Reverſion that is made Aſſetts did not come by Deſcent, but by Deviſe to the then Defendant, and therefore ought not to have been made liabie to the pretended Demand of the Lady.</p>
+            <p n="8">8. For that the Decree againſt the Petitioner, during his Minority, gives the Lady <hi>Dacre,</hi> and her Servant Mr. <hi>Owen,</hi> Liberty to Fell and Cut the Appealants Wood and Timber, which was beyond the Power of the Court to do.</p>
+            <p n="9">9. For that 120. <hi>l. per Annum,</hi> is Decreed out of the Appealants Eſtate, for the maintenance of the Ladies Grand-Children, and whom She is obliged by Law to maintain.</p>
+            <p>
+               <hi>For which Reaſons, the Appealant humbly prays the Decrees may be Reverſed and ſet Aſide.</hi>
+            </p>
+            <pb facs="tcp:184471:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
